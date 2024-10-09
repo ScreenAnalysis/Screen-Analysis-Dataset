@@ -41,7 +41,7 @@ Below is a summary table of the dataset with the distribution of on-task and off
 | Students in wild (real-world)          | 462   | 312     | 150      |
 | **Grand Total**                        | 14,995| 9,820   | 5,175    |
 
-_Fig. 3. Summary of the dataset distribution across different sources._
+Table 1. Screenshot totals, sources, and categories
 
 
 
